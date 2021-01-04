@@ -12,6 +12,15 @@ main()
 {
     int c;
     
+    c = getchar();
+    while (c != EOF) {
+       /* Remember that the syntactical structure follows the logic */
+       putchar();
+       c = getchar();
+    }
+}    
+  
+   
     
 
 
