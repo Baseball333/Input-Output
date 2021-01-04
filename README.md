@@ -9,3 +9,6 @@ The first file which was written from the "C Programming Language Book". It is a
 
 Third Commit:
 The iologic.c file is the logical representation of the original input-output program. In the C implementation the getchar() and putchar() functions which are specified in the C standard library for input and output. After the while statement these functions are applied to return the character data.
+
+Fourth Commit:
+Character data is often processed in C with the char data type of the functions of the standard input-output library. Most of C's character data is manipulated without the usage of external implementation.
