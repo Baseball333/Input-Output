@@ -6,3 +6,6 @@ I began to learn C in 2020 for a myriad of reasons.For now I will attest my inte
 
 Second Commit:
 The first file which was written from the "C Programming Language Book". It is a file copying program which specifies the char data type to store character data. Char is applied to return a value that is not confused for a real character. Remember that EOF is an integer defined in the <stdio.h>, which is replacable by any symbolic constant. Another file will be written to explain its logical structure (employed for instruction).
+
+Third Commit:
+The iologic.c file is the logical representation of the original input-output program. In the C implementation the getchar() and putchar() functions which are specified in the C standard library for input and output. After the while statement these functions are applied to return the character data.
