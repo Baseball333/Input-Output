@@ -12,3 +12,6 @@ The iologic.c file is the logical representation of the original input-output pr
 
 Fourth Commit:
 Character data is often processed in C with the char data type of the functions of the standard input-output library. Most of C's character data is manipulated without the usage of external implementation.
+
+Fifth Commit:
+Tomorrow I will include many commits about a recent character counting program taken from "the C: Programming Language".
