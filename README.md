@@ -18,3 +18,6 @@ Tomorrow I will include many commits about a recent character counting program t
 
 Sixth Commit:
 I have a lot to write. I have completed several programs from "the C:Programming Language". Among these the two are the character and word counting programs. The character counting is similar to the copy program. I will include the file and explain its functionality in the next commit.
+
+Seventh Commit:
+The character counting program is rudimentary, as it primarily functions through the ++nc operator. The body of the for loop is also empty, as the majority of the functionality is completed through the test and increment parts. Syntactically the empty for loop is maintained by an isolated semicolon. The isolated semicolon is called a null statement which satisfies the syntactic requirement. One of my favorite aspects of this program is how Dennis Ritchie/Ken Thompson remarked "One of the nice things about while and for is that they test at the top of the loop before proceeding with the body. Programs should act intelligently when given zero-length input. The while and for statements help ensure that programs do reasonable things with boundary conditions." I can understand why C directly influened  the scope of programming and computer science in general.
