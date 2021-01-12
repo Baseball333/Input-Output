@@ -15,3 +15,6 @@ Character data is often processed in C with the char data type of the functions 
 
 Fifth Commit:
 Tomorrow I will include many commits about a recent character counting program taken from "the C: Programming Language".
+
+Sixth Commit:
+I have a lot to write. I have completed several programs from "the C:Programming Language". Among these the two are the character and word counting programs. The character counting is similar to the copy program. I will include the file and explain its functionality in the next commit.
