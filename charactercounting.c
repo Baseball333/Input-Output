@@ -8,4 +8,4 @@ main()
     
   nc = 0;
   while (getchar() != EOF)
-    
+      ++nc;
