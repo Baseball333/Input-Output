@@ -5,3 +5,7 @@ main()
 {
   
   long nc;
+    
+  nc = 0;
+  while (getchar() != EOF)
+    
