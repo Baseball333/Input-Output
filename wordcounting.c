@@ -1,1 +1,1 @@
-
+/* Word counting program */
