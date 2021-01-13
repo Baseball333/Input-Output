@@ -9,5 +9,5 @@ main()
 {
     int c, nl, nw, nc state;
   
-  
+    state = OUT;
   
