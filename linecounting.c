@@ -4,3 +4,7 @@
 /* Count lines through input */
 main()
 {
+  
+  int c, nl;
+  
+
