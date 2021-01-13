@@ -1,1 +1,1 @@
-
+/* The following program counts lines */
