@@ -25,3 +25,6 @@ The character counting program is rudimentary, as it primarily functions through
 
 Eighth Commit:
 The next program is a line counting program. I've yet to write it, although I read from the text "As we mentioned above, the standard library ensures that an input text stream appears as a sequence of lines, each terminated by a newline." Sounds interesting. Got to complete my English homework.
+
+Ninth Commit:
+The line counting program is rudumentary. The <stdio.h> standard library ensures that an input text stream is counted as a sequence of lines, each terminated by a newline specification. Counting lines is considered counting "newlines".
