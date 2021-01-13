@@ -17,4 +17,5 @@ main()
                  ++nc;
                  if (c == "\n")
                  ++n;;
-    
+                 if (c == "" || c == "\n" || c == "t")
+                    state = OUT;
