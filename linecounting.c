@@ -7,4 +7,4 @@ main()
   
   int c, nl;
   
-
+  nl = 0;
