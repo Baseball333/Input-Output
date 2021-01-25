@@ -28,3 +28,6 @@ The next program is a line counting program. I've yet to write it, although I re
 
 Ninth Commit:
 The line counting program is rudumentary. The <stdio.h> standard library ensures that an input text stream is counted as a sequence of lines, each terminated by a newline specification. Counting lines is considered counting "newlines".
+
+Tenth Commit:
+A test commit.
