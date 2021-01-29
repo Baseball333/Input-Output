@@ -5,3 +5,5 @@
 /* Count characters, digits and whitespace */
 main()
 {
+  
+  int c, i, nwhite, other
