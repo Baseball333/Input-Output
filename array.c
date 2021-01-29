@@ -3,3 +3,5 @@
 #include <stdio.h>
 
 /* Count characters, digits and whitespace */
+main()
+{
