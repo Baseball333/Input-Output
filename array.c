@@ -1,4 +1,4 @@
-/* The following is a program which describes functionality accouting for arrays */
+/* The following is a program which describes functionality accounting for arrays */
 
 #include <stdio.h>
 
@@ -11,3 +11,4 @@ main()
   
   nwhite = nother = 0;
   for (i = 0; i < 10; ++i)
+       ndigit[1] = 0;
