@@ -6,4 +6,5 @@
 main()
 {
   
-  int c, i, nwhite, other
+  int c, i, nwhite, nother;
+  int ndigit[10];
