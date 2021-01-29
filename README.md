@@ -31,3 +31,6 @@ The line counting program is rudumentary. The <stdio.h> standard library ensures
 
 Tenth Commit:
 A test commit.
+
+Eleventh Commit:
+The following file will detail a program of arrays. Its mathematical structure will be explained in the next README commit.
