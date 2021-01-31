@@ -17,3 +17,5 @@ main()
          ++ndigit[c-"0"];
          elseif if (c == "" || c = "\n", || c = "\t")
               ++nwhite;
+         else
+              
