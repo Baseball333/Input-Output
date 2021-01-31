@@ -18,4 +18,4 @@ main()
          elseif if (c == "" || c = "\n", || c = "\t")
               ++nwhite;
          else
-              
+              ++nother;
