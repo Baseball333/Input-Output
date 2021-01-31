@@ -30,7 +30,10 @@ Ninth Commit:
 The line counting program is rudumentary. The <stdio.h> standard library ensures that an input text stream is counted as a sequence of lines, each terminated by a newline specification. Counting lines is considered counting "newlines".
 
 Tenth Commit:
-A test commit.
+A test commit
 
 Eleventh Commit:
 The following file will detail a program of arrays. Its mathematical structure will be explained in the next README commit.
+
+Twelfth Commit:
+Many programs in C follow the mathematical structure of this program, with a special reliance on conditions. In C, a condition is evaluated from the top until an instance is satisfied. At that point the corresponding statement is executed and the entire construction is finished. If none of the statements are satisfied the statement after the final else in this program is executed in the present. This single fact has influenced virtually all programming languages since C's inception during the 1970s.
