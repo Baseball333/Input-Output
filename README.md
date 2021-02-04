@@ -40,3 +40,6 @@ Many programs in C follow the mathematical structure of this program, with a spe
 
 Thirteenth Commmit:
 The next commit will describe the scope of a mathematical function in C.
+
+Fourteenth Commit:
+In C, a function is equivalent to any other logical construct of programming languages common throughout the time. According to the text, "a function provides a convenient manner to encapsulate computation without worrying of its implementation." In computer science, functions are applied to reduce the complexity of certain programs. In this program, the function power(m, n) is raised to obtain an integer m to a positive integer n. This function is not considered a practical exponentiation routine as it only allows positive powers of small integers.
