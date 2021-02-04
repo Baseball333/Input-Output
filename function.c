@@ -16,3 +16,4 @@ main()
 }
 
 /* Power; Raise base to nth power; N >= 0 */
+int power(int base, int n)
