@@ -7,3 +7,5 @@ int power(int m, int n)
 /* Test the previous function */
 main()
 {
+
+   int i;
