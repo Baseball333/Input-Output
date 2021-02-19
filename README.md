@@ -49,3 +49,6 @@ The function's implementation relies upon the previous information.
 
 Sixteenth Commit:
 In C, all function are passed by value. This indicates the function is attributed its arguments in temporary variables. A function cannot alter a variable in the calling function. This characteristic allows for compact programs.
+
+Seventeenth Commit:
+As is evident, the "call-by-value" characteristic allows for C programs to be compact, which makes C such a universal language.
