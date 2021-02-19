@@ -6,3 +6,4 @@ int power(int base, int n)
   
   for (p = 1; n > 0; --n)
       p = p * base
+  return p;
