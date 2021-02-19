@@ -46,3 +46,6 @@ In C, a function is equivalent to any other logical construct of programming lan
 
 Fifteenth Commit:
 The function's implementation relies upon the previous information.
+
+Sixteenth Commit:
+In C, all function are passed by value. This indicates the function is attributed its arguments in temporary variables. A function cannot alter a variable in the calling function. This characteristic allows for compact programs.
