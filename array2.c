@@ -7,3 +7,6 @@ void copy(char [to], char from[]);
 /*Print longest input line */
 main()
 {
+
+int len /* Current line length */
+int max /* Maximum line length */
