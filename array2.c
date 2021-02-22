@@ -10,3 +10,6 @@ main()
 
 int len /* Current line length */
 int max /* Maximum line length */
+char line[MAXLINE]; /* Current input line */
+char longest[MAXLINE]; /* Longest saved line */
+  
