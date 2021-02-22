@@ -58,3 +58,12 @@ Have  I got a program for you!
 
 Ninteenth Commit:
 The next program is a line counter with inter-function communication and array implementation as described by Dennis Ritchie/Ken Thompson.
+
+Twentieth Commit:
+The functionality of the program exists through the getline and copy functions(which are declared at the beginning of the program). These respective functions 
+communicate through several arguments and a return value. The communicative arguments are expressed by the following argument.
+
+int getline(char [s], int lim)
+
+Storage size is a key component of C and is specified through an array s in getline. The line also conveniently returns an int. getline is also the most 
+prominent function in this program as it returns a useful value and marks a null character at the end of the array. The last aspect of this program is the getline control over an input line. getflow revises any possible overflow, though the typical user is aware of a string's length.
