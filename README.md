@@ -55,3 +55,6 @@ As is evident, the "call-by-value" characteristic allows for C programs to be co
 
 Eighteenth Commit:
 Have  I got a program for you!
+
+Ninteenth Commit:
+The next program is a line counter with inter-function communication and array implementation as described by Dennis Ritchie/Ken Thompson.
