@@ -14,3 +14,4 @@ char line[MAXLINE]; /* Current input line */
 char longest[MAXLINE]; /* Longest saved line */
   
 max = 0;
+while ((len = getline(line, MAXLINE)) > 0)
