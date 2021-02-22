@@ -13,3 +13,4 @@ int max /* Maximum line length */
 char line[MAXLINE]; /* Current input line */
 char longest[MAXLINE]; /* Longest saved line */
   
+max = 0;
