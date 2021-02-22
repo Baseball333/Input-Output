@@ -23,3 +23,9 @@ while ((len = getline(line, MAXLINE)) > 0)
 if (max > 0) /* There was a line */
     printf(%s, longest);
 return(0);
+}
+
+/* Getline; Read a line into s, return length */
+int getline(char s[], int lim)
+{
+  
