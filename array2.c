@@ -15,3 +15,5 @@ char longest[MAXLINE]; /* Longest saved line */
   
 max = 0;
 while ((len = getline(line, MAXLINE)) > 0)
+      if (len > max) {
+          max = len;
