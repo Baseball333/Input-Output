@@ -17,3 +17,9 @@ max = 0;
 while ((len = getline(line, MAXLINE)) > 0)
       if (len > max) {
           max = len;
+          copy(longest, line)
+      }
+  
+if (max > 0) /* There was a line */
+    printf(%s, longest);
+return(0);
