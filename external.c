@@ -31,3 +31,6 @@ main()
 /* Getline; Specialized version */
 int getline(void)
 {
+    int c, i;
+    extern char line[];
+  
