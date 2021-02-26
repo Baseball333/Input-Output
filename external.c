@@ -27,3 +27,7 @@ main()
       printf("%s," longest);
   return 0;
 }
+
+/* Getline; Specialized version */
+int getline(void)
+{
