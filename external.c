@@ -16,3 +16,6 @@ main()
   extern int max;
   extern char longest[];
   
+
+  max = 0; 
+  
