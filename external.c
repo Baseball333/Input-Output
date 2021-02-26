@@ -12,4 +12,7 @@ void copy(void);
 /* Print longest line, specialized version */
 main()
 {
+  int len;
+  extern int max;
+  extern char longest[];
   
