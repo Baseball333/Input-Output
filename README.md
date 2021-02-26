@@ -67,3 +67,6 @@ int getline(char [s], int lim)
 
 Storage size is a key component of C and is specified through an array s in getline. The line also conveniently returns an int. getline is also the most 
 prominent function in this program as it returns a useful value and marks a null character at the end of the array. The last aspect of this program is the getline control over an input line. getflow revises any possible overflow, though the typical user is aware of a string's length.
+
+Twenty-First Commit:
+The next program is the final in the "Input-Output" chapter of the C:Programmming Language textbook.
