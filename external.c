@@ -19,3 +19,5 @@ main()
 
   max = 0; 
   while ((len = getline()) > 0)
+      if (len > max) {
+          max = len;
