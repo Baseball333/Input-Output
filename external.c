@@ -18,4 +18,4 @@ main()
   
 
   max = 0; 
-  
+  while ((len = getline()) > 0)
