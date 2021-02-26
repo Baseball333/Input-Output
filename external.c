@@ -8,3 +8,5 @@ char longest[MAXLINE]; /* Longest line saved */
 
 int getline(void);
 void copy(void);
+
+/* Print longest line, specialized version */
