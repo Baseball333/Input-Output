@@ -21,3 +21,5 @@ main()
   while ((len = getline()) > 0)
       if (len > max) {
           max = len;
+          copy()
+      }
