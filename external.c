@@ -23,3 +23,7 @@ main()
           max = len;
           copy()
       }
+  if (max > 0) /* There was a line */
+      printf("%s," longest);
+  return 0;
+}
