@@ -70,3 +70,6 @@ prominent function in this program as it returns a useful value and marks a null
 
 Twenty-First Commit:
 The next program is the final in the "Input-Output" chapter of the C:Programmming Language textbook.
+
+Twenty-Second Commit:
+External variables exist within main, getline and output. The syntactic structure of such external variables must be intiated toward the function. The extern declaration at the beginning of these variables is consequently redundant, as common practice is to place definitions at the beginning of such a file. If a definition  is divided across several files then an integrated file called a header must be written to unite each declaration. "Declaration" and "definition" are distinct references in the C programming language. The input-output repository has officially been completed.
